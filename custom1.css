@@ -1,0 +1,65 @@
+ul{
+		text-align: center;
+}
+li{
+	text-align: center;
+	display: inline-flex;
+	font-size: 20px;
+	margin-top: -40px;
+	margin-left: 100px;
+}
+
+a{
+	margin-inline: 17px;
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color:mediumpurple;
+}
+
+body{
+	background-image: url("image/desktop.jpg");
+	background-size: 1850px;
+}
+#AboutMe {
+	margin-top: 60;
+	font-family: Cursive;
+	font-weight:bold; 
+	color: white;
+	margin-left: 50px;
+	font-size: 25px;
+}
+
+.me img{
+	width: 380px;
+	height: 380px;
+	margin-left: 650px;
+	margin-top:-300px;
+
+}
+#hello{
+ font-size:20px;
+ font-family: ;
+ color: white;
+  margin-top: 200px;
+  margin-left: 100px;
+  color: lightslategrey;
+}
+
+#intro{
+ font-size:40px;
+ font-family: ;
+ color: white;
+ margin-left: 200px;
+ margin-top: 30px;
+}
+#introduce{
+ font-size:28px;
+ width: 600px ;
+ font-family: ;
+ color: white;
+ margin-top: 40px;
+ text-align: center;
+ color: darkgray;
+}

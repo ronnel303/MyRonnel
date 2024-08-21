@@ -1,0 +1,36 @@
+/*ABOUT*/
+ul{
+		text-align: center;
+}
+
+
+li{
+	text-align: center;
+	display: inline-flex;
+	font-size: 20px;
+	margin-top: -40px;
+	margin-left: 100px;
+}
+
+a{
+	margin-inline: 17px;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color:mediumpurple;
+}
+
+#AboutMe {
+	margin-top: 60;
+	font-family: Cursive;
+	font-weight:bold; 
+	color: white;
+	margin-left: 50px;
+	font-size: 25px;
+}
+body{
+	background-image: url("image/desktop.jpg");
+	background-size: 1850px;
+}

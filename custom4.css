@@ -1,0 +1,54 @@
+/*PROJECT*/
+
+.unlist2 {
+		color: white;
+	margin-top: 50px;
+	margin-left: 200px;
+	font-size: 25px;
+}
+.unlist2 a:hover{
+	color:lightseagreen;
+}
+
+
+.try{
+	text-align: center;
+	display: inline-flex;
+	font-size: 20px;
+	margin-top: -40px;
+	margin-left: 100px;
+}
+
+.try a:hover{
+	color:mediumpurple;
+}
+
+a{
+	margin-inline: 17px;
+	text-decoration: none;
+	color: white;
+}
+
+#AboutMe {
+	margin-top: 60;
+	font-family: Cursive;
+	font-weight:bold; 
+	color: white;
+	margin-left: 50px;
+	font-size: 25px;
+}
+body{
+	background-image: url("image/desktop.jpg");
+	background-size: 1850px;
+
+#projects{
+	margin-left: 200px;
+	color: white;
+	font-family: Helvetica ;
+}
+
+.unlist {
+	text-align: center;
+}
+
+
