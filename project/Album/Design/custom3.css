@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+	margin-bottom: 40pxpx;
+	color: purple;
+}
+
+ul{
+	padding: 0px;
+	font-size: 20px;
+	text-align: center;
+  
+}
+
+a{
+	margin-inline: 40px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+body{
+	background-image:url("image/halaman.jpg");
+	background-size: 1700px;
+

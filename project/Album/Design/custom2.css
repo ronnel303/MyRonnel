@@ -1,0 +1,71 @@
+/*ronnel*/
+
+h1{
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+	margin-bottom: 40pxpx;
+	color: purple;
+}
+
+ul{
+	padding: 0px;
+	font-size: 20px;
+	text-align: center;
+  
+}
+
+a{
+	margin-inline: 40px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+a:hover{
+	color: lightskyblue;
+}
+
+
+body{
+	background-image:url("image/halaman.jpg");
+	background-size: 1700px;
+
+
+.Pictureko{
+	text-align: center;
+}
+
+.Pictureko img{
+	width: 300px;
+	height: 300px;
+	
+}
+
+#name{
+	text-align: center;
+	font-size:20px;
+	font-family:cursive;
+	font-weight: bold;
+}
+
+#age{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+#hobby{
+	text-align:center;
+	font-size:20px;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+#ownquote{
+	text-align: center;
+	font-size:20px;
+	font-family: cursive;
+	font-weight: bold;
+}

@@ -1,0 +1,64 @@
+
+/*SampleWeb2*/
+
+h1{
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+	margin-bottom: 40pxpx;
+	color: purple;
+}
+.back1 a:hover {
+    color: lightgray; /* Baguhin ang kulay kapag hovered */
+}
+
+ul{
+
+	font-size: 20px;
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+	background-color: lightseagreen;
+	width: 575;
+	margin: 0 auto;
+	border-radius: 20px;
+}
+
+li{
+	text-decoration: none;
+}
+
+a{
+	margin-inline: 35px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+a:hover{
+	color:lightcoral;
+}
+
+body{
+	background-image:url("image/halaman.jpg");
+	background-size: 1700px;
+
+#quote{
+	font-size:40px;
+	text-align: center;
+	font-family: georgia;
+	margin: 200px;
+}
+
+#quote:hover{
+	color:lightseagreen;
+}
+
+.back1 a{
+	background-color: lightseagreen;
+	padding: 10px ;
+	width: 100px;
+	border-radius: 50px;
+	border
+}
+
